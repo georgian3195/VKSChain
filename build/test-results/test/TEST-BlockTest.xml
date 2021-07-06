@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BlockTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-04T14:22:07" hostname="Dakshs-MacBook-Air.local" time="0.053">
+  <properties/>
+  <testcase name="testBlock()" classname="BlockTest" time="0.053"/>
+  <system-out><![CDATA[Hash for block 1 : b4530402aca3864643e267b1d04d447d44e73b87f5615aa9260d929e53025b6b
+Hash for block 2 : 01f09ac8a9b07225d27a0552cd4c5f927c14082cf58dbc1152a428909cd28031
+Hash for block 3 : 50fbc205b8af31b34dbde3643b04b7b1c906ab828fdc022a4dda136d0addc928
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
